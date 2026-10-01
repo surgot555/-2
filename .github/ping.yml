@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping server
-        run: curl https://coinbot.onrender.com
+        run: curl https://coinbot-vjlx.onrender.com/
